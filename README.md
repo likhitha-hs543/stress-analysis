@@ -32,27 +32,27 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-4.4-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-4.5-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-Live-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-18.2-000000?style=for-the-badge&logo=react&logoColor=00D8FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Chart.js](https://img.shields.io/badge/Chart.js-4.4-000000?style=for-the-badge&logo=chartdotjs&logoColor=FF6384)
+![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-Live-000000?style=for-the-badge&logo=webrtc&logoColor=4B7BEC)
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-3.0-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flask-SocketIO](https://img.shields.io/badge/Flask--SocketIO-5.3-000000?style=for-the-badge&logo=flask&logoColor=white)
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3.8+-000000?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Flask](https://img.shields.io/badge/Flask-API-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask-SocketIO](https://img.shields.io/badge/Flask--SocketIO-Realtime-000000?style=for-the-badge&logo=flask&logoColor=FF9F1C)
 
-### Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-2.1-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1.24-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### 🧠 Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-2.1-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![NumPy](https://img.shields.io/badge/NumPy-1.24-000000?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 
-### Audio & Video Processing
-![LibROSA](https://img.shields.io/badge/LibROSA-0.10-orange?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.8-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10-00C4CC?style=for-the-badge)
+### 🎧 Audio & 🎥 Video
+![LibROSA](https://img.shields.io/badge/LibROSA-Audio%20AI-000000?style=for-the-badge&logoColor=9B5DE5)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.8-000000?style=for-the-badge&logo=opencv&logoColor=5C7CFA)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Vision-000000?style=for-the-badge&logoColor=00BBF9)
 
 ---
 
