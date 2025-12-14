@@ -284,6 +284,15 @@ This system is a **supportive tool** for workplace wellness monitoring. It shoul
 
 ---
 
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+You are free to use, modify, and distribute this project with proper attribution.
+
+---
+
 ## 🙏 Acknowledgments
 
 MediaPipe (Google) • LibROSA • PyTorch Community
+
