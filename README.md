@@ -32,27 +32,27 @@
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-18.2-000000?style=for-the-badge&logo=react&logoColor=00D8FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Chart.js](https://img.shields.io/badge/Chart.js-4.4-000000?style=for-the-badge&logo=chartdotjs&logoColor=FF6384)
-![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-Live-000000?style=for-the-badge&logo=webrtc&logoColor=4B7BEC)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Chart.js](https://img.shields.io/badge/Chart.js-1f1f1f?style=flat-square&logo=chartdotjs&logoColor=FF6384)
+![Socket.io](https://img.shields.io/badge/Realtime-10B981?style=flat-square&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/Live-3B82F6?style=flat-square&logo=webrtc&logoColor=white)
 
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3.8+-000000?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Flask](https://img.shields.io/badge/Flask-API-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flask-SocketIO](https://img.shields.io/badge/Flask--SocketIO-Realtime-000000?style=for-the-badge&logo=flask&logoColor=FF9F1C)
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-10B981?style=flat-square&logo=socketdotio&logoColor=white)
 
-### 🧠 Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-2.1-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![NumPy](https://img.shields.io/badge/NumPy-1.24-000000?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+### Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### 🎧 Audio & 🎥 Video
-![LibROSA](https://img.shields.io/badge/LibROSA-Audio%20AI-000000?style=for-the-badge&logoColor=9B5DE5)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.8-000000?style=for-the-badge&logo=opencv&logoColor=5C7CFA)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Vision-000000?style=for-the-badge&logoColor=00BBF9)
+### Audio & Video AI
+![LibROSA](https://img.shields.io/badge/LibROSA-9B5DE5?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-9B5DE5?style=flat-square)
 
 ---
 
@@ -234,6 +234,22 @@ npm start                      # Runs on port 3000
 2. Accept privacy consent
 3. Grant browser permissions for camera & microphone
 4. View live stress analysis
+
+</details>
+
+<details>
+<summary><b>⚙️ Tech Requirements</b></summary>
+
+| Component | Version |
+|-----------|---------|
+| **Python** | 3.8+ |
+| **Node.js** | 16+ |
+| **React** | 18.2 |
+| **PyTorch** | 2.1 |
+| **Flask** | 3.0 |
+| **OpenCV** | 4.8 |
+| **LibROSA** | 0.10 |
+| **MediaPipe** | 0.10 |
 
 </details>
 
