@@ -1,0 +1,127 @@
+/* Analytics Styles */
+.analytics {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    margin: 20px 0;
+}
+
+.analytics h2 {
+    margin: 0 0 24px 0;
+    font-size: 24px;
+    font-weight: 700;
+    color: #e2e8f0;
+}
+
+.analytics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    margin-bottom: 32px;
+}
+
+.stat-card {
+    background: rgba(59, 130, 246, 0.1);
+    border: 1px solid rgba(59, 130, 246, 0.2);
+    border-radius: 12px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.stat-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(59, 130, 246, 0.2);
+}
+
+.stat-icon {
+    font-size: 32px;
+    opacity: 0.9;
+}
+
+.stat-content {
+    flex: 1;
+}
+
+.stat-label {
+    font-size: 12px;
+    color: #94a3b8;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 4px;
+}
+
+.stat-value {
+    font-size: 24px;
+    font-weight: 700;
+    color: #3b82f6;
+}
+
+.stat-value.emotion-text {
+    text-transform: capitalize;
+}
+
+.stat-subvalue {
+    font-size: 12px;
+    color: #64748b;
+    margin-top: 4px;
+}
+
+/* Emotion Distribution */
+.emotion-distribution {
+    margin-top: 32px;
+}
+
+.emotion-distribution h3 {
+    margin: 0 0 20px 0;
+    font-size: 18px;
+    font-weight: 600;
+    color: #e2e8f0;
+}
+
+.emotion-bars {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.emotion-bar-item {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.emotion-bar-label {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+}
+
+.emotion-name {
+    color: #e2e8f0;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.emotion-percent {
+    color: #3b82f6;
+    font-weight: 700;
+}
+
+.emotion-bar-track {
+    height: 8px;
+    background: rgba(30, 41, 59, 0.6);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.emotion-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+    border-radius: 4px;
+    transition: width 0.3s ease;
+}

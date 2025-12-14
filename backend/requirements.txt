@@ -1,0 +1,32 @@
+# Core Backend
+Flask==3.0.0
+Flask-SocketIO==5.3.5
+Flask-CORS==4.0.0
+python-socketio==5.10.0
+python-engineio==4.8.0
+eventlet==0.33.3
+
+# Audio Processing
+librosa==0.10.1
+soundfile==0.12.1
+numpy==1.24.3
+scipy==1.11.4
+pydub==0.25.1
+noisereduce==3.0.0
+
+# Video Processing
+opencv-python==4.8.1.78
+mediapipe==0.10.8
+
+# Deep Learning
+torch==2.1.1
+torchvision==0.16.1
+torchaudio==2.1.1
+onnx==1.15.0
+onnxruntime==1.16.3
+
+# Utilities
+pandas==2.1.4
+matplotlib==3.8.2
+Pillow==10.1.0
+python-dotenv==1.0.0

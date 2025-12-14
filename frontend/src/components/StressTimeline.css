@@ -1,0 +1,31 @@
+/* Stress Timeline Styles */
+.stress-timeline {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    margin: 20px 0;
+}
+
+.timeline-header {
+    margin-bottom: 20px;
+}
+
+.timeline-header h2 {
+    margin: 0 0 8px 0;
+    font-size: 24px;
+    font-weight: 700;
+    color: #e2e8f0;
+}
+
+.timeline-subtitle {
+    margin: 0;
+    font-size: 14px;
+    color: #94a3b8;
+}
+
+.chart-container {
+    height: 300px;
+    position: relative;
+}
